@@ -52,6 +52,18 @@ End-to-end **Data Engineering and Business Intelligence** platform for **Supply 
 - Python pipeline automation
 - Power BI dashboard with KPI analysis
 
+### [RAG Scholar — Multi-Agent Learning Assistant](https://github.com/MedByteSystems/prj/tree/main/rag-learning-assistant)
+
+Local-first RAG application for interactive learning from PDF courses using a multi-agent architecture.
+
+**Python · FastAPI · Ollama · ChromaDB · PyMuPDF · RAG · AI Agents**
+
+- PDF ingestion, chunking and page-aware metadata
+- Vector retrieval with local embeddings
+- Router, RAG, Memory and General agents
+- Grounded answers with source file and page information
+- Summary and interactive quiz generation
+
 ### Knowledge Graph for Tax Intelligence
 
 Knowledge graph platform built from public tax documents for entity, relation and semantic exploration.
