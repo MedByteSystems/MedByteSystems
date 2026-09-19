@@ -52,7 +52,7 @@ End-to-end **Data Engineering and Business Intelligence** platform for **Supply 
 - Python pipeline automation
 - Power BI dashboard with KPI analysis
 
-### [RAG Scholar — Multi-Agent Learning Assistant](https://github.com/MedByteSystems/prj/tree/main/rag-learning-assistant)
+### [RAG Scholar — Multi-Agent Learning Assistant](https://github.com/MedByteSystems/Rag-learning-assistant/tree/main/rag-learning-assistant)
 
 Local-first RAG application for interactive learning from PDF courses using a multi-agent architecture.
 
