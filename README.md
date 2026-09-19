@@ -40,7 +40,7 @@ Docker · Git · GitHub · Linux
 
 ## Featured Projects
 
-### EODIP — Enterprise Operational Data Intelligence Platform
+### [EODIP — Enterprise Operational Data Intelligence Platform](https://github.com/MedByteSystems/enterprise-operational-data-intelligence-platform)
 
 End-to-end **Data Engineering and Business Intelligence** platform for **Supply Chain, Procurement, Sales and Decision Intelligence**.
 
